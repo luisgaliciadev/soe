@@ -1,0 +1,6 @@
+*!*	SET SYSMENU OFF
+PUBLIC lcAppDir,Vgc_usuario,nres,Vgc_cedula
+lcAppDir = upper(ADDBS(SYS(5) + SYS(2003)))
+Vgc_usuario="17823288"
+Vgc_cedula="17823288"
+
